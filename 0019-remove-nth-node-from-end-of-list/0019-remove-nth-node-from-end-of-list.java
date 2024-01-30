@@ -10,11 +10,12 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
+//Case: where only one node is given
        if(head.next == null) {
            return null;
        }
 
-
+//Find size of the linked list
        int size = 0;
        ListNode temp = head;
        while(temp != null) {
@@ -22,12 +23,12 @@ class Solution {
            size++;
        }
 
-       //removing SIZEth node from last i.e. head
+//removing SIZEth node from last i.e. head
        if(n == size) {
            return head.next;
        }
 
-       //find previous node
+//find previous node
        int ptf = size - n; // position to find
        ListNode prev = head; // previous node
        int cp = 1; // current position
