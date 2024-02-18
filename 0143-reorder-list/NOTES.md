@@ -1,4 +1,6 @@
 Approach:
+
+
 Find the middle of the list:
 
 Use the slow and fast pointer approach to find the middle of the linked list. This involves having two pointers, one moving one step at a time (slow), and the other moving two steps at a time (fast). When the fast pointer reaches the end of the list, the slow pointer will be at the middle.
