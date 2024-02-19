@@ -1,6 +1,9 @@
 Initially, we have two sorted linked lists:
-list1: 1 -> 3 -> 5 -> 7 -> 9
-list2: 2 -> 4 -> 6 -> 8 -> 10
+
+- **list1:** 1 -> 3 -> 5 -> 7 -> 9
+- **list2:** 2 -> 4 -> 6 -> 8 -> 10
+
+
 
 dummy -> 0
 ^
