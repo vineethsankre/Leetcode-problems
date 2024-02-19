@@ -1,4 +1,4 @@
-## Approach using a hash table:
+### Approach using a hash table:
 
 1. **Create an empty hash table** to store elements and their indices.
 2. **Iterate through the array** from left to right.
