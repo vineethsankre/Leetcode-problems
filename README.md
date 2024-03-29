@@ -5,3 +5,4 @@ This repository contains some of the leetcode problems.
 The topics that covered in the problems till now includes:
  
 Arrays
+Linked list
