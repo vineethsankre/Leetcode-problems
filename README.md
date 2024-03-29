@@ -8,4 +8,4 @@ Arrays
 Linked list
 Heap
 
-More yet be solved!!!
+More DSA questions yet be solved!!!
