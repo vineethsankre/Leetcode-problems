@@ -9,4 +9,4 @@ This repository contains a collection of LeetCode problems and solutions.
 - Linked Lists
 - Heap
 
-More DSA questions yet be solved!!!
+More pattern questions yet be solved!!!
